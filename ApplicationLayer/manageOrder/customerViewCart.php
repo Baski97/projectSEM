@@ -60,7 +60,7 @@
                 <table border="1">
                     <tr>
                         
-                        <td width="150"><center><b>Item Name</b></center></td>
+                        <td width="150"><center><b>Item</b></center></td>
                         <td width="130"><center><b>Unit Price (RM)</b></center></td>
                         <td width="100"><center><b>Quantity</b></center></td>
                         <td width="100"><center><b>Subtotal (RM)</b></center></td>
